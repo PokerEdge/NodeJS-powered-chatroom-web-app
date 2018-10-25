@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-powered-chatroom-web-app",
+  "version": "1.0.0",
+  "description": "Real time chat app built with express, nodejs, socket.io and vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "vue",
+    "real time",
+    "socket.io",
+    "express"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pug": "^2.0.3",
+    "socket.io": "^2.1.1"
+  }
+}
